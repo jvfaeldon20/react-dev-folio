@@ -30,8 +30,8 @@ header {
     bottom: 3rem;
 }
 
-.header__socials::after{
-    content: "";
+.header__socials::after {
+    content: '';
     width: 1px;
     height: 2rem;
     background: var(--color-primary);
@@ -64,16 +64,19 @@ header {
 
 /* =================== MEDIA QUERIES (Medium devices) ===================== */
 @media screen and (max-width: 1024px) {
-    header{
+    header {
         height: 68vh;
+    }
+}
+
+/* =================== MEDIA QUERIES (Medium devices) ===================== */
+@media screen and (max-width: 600px) {
+    header {
+        height: 100vh;
     }
 
     .header__socials,
     .scroll__down{
         display: none;
     }
-}
-
-
-@media screen and (max-width: 600px) {
 }

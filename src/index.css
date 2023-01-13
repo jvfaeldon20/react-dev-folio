@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
 
 *{
-    margin: 0px;
-    padding: 0px;
-    border: 0px;
-    outline: 0px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
     box-sizing: border-box;
     list-style: none;
     text-decoration: none;
@@ -39,7 +39,7 @@ body{
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;
-    /* background-image: url('../src/assets/bg-texture.png'); */    
+    background-image: url('../src/assets/bg-texture.png');    
 }
 
 
@@ -66,7 +66,6 @@ h1 {
 
 section{
     margin-top: 8rem;
-    height: 100vh;
 }
 
 section > h2, section > h5 {
@@ -135,7 +134,7 @@ img{
     }
 }
 
-
+/* =================== MEDIA QUERIES (Small devices) ===================== */
 @media screen and (max-width: 600px) {
     .container{
         width: var(--container-width-sm);
