@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.fd1dafa6.css",
-    "main.js": "/static/js/main.bdb6c823.js",
-    "static/media/me.png": "/static/media/me.821ecddcb9953b46bf75.png",
-    "static/media/me-about.jpg": "/static/media/me-about.fb4452e7f286d3636ef9.jpg",
-    "static/media/jv-cv.pdf": "/static/media/jv-cv.f78d6b7c8ffad8eed769.pdf",
-    "static/media/portfolio5.png": "/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/portfolio2.jpg": "/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio1.jpg": "/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/portfolio4.jpg": "/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
-    "index.html": "/index.html",
-    "main.fd1dafa6.css.map": "/static/css/main.fd1dafa6.css.map",
-    "main.bdb6c823.js.map": "/static/js/main.bdb6c823.js.map"
+    "main.css": "/dev-folio/static/css/main.fd1dafa6.css",
+    "main.js": "/dev-folio/static/js/main.1622c372.js",
+    "static/media/me.png": "/dev-folio/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/me-about.jpg": "/dev-folio/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/jv-cv.pdf": "/dev-folio/static/media/jv-cv.f78d6b7c8ffad8eed769.pdf",
+    "static/media/portfolio5.png": "/dev-folio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/dev-folio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/dev-folio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/dev-folio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/dev-folio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/dev-folio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/dev-folio/index.html",
+    "main.fd1dafa6.css.map": "/dev-folio/static/css/main.fd1dafa6.css.map",
+    "main.1622c372.js.map": "/dev-folio/static/js/main.1622c372.js.map"
   },
   "entrypoints": [
     "static/css/main.fd1dafa6.css",
-    "static/js/main.bdb6c823.js"
+    "static/js/main.1622c372.js"
   ]
 }
